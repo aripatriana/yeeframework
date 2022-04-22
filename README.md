@@ -1,2 +1,2 @@
 # yeeframework
-Y extnsible framework for automate web application
+Y extensible framework for automate web application
