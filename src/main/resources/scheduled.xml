@@ -1,0 +1,12 @@
+<scheduled>
+	<testcase>
+		<scenario> </scenario>
+		<trigger-time></trigger-time>
+		<description></description>
+	</testcase>
+	<testcase>
+		<scenario> </scenario>
+		<trigger-time></trigger-time>
+		<description></description>
+	</testcase>
+</scheduled>
